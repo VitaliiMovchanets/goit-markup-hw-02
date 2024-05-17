@@ -12,7 +12,7 @@ ul,ol {
     list-style: none;
 }
 
-.logo {font-weight: 700;
+.logo-1 {font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -168,4 +168,14 @@ color: #2e2f42;
 
 .logo-part-2 {
     color: #f4f4fd;
+}
+
+.logo-2 {
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        font-family: Raleway, sans-serif;
 }
