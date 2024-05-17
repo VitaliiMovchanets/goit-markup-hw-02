@@ -58,8 +58,6 @@ font-weight: 400;
 }
 .hero {
     background: #2e2f42;
-    width: 1440px;
-        height: 600px;
 }
 
 .hero-title {
@@ -67,10 +65,10 @@ font-weight: 400;
         font-size: 56px;
         line-height: 1.1;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #fff;
 }
 
-.button {
-background: #4d5ae5;
+.button-link:hover,
+.button-link:focus {
+     background: #404bbf;
 }
