@@ -56,19 +56,7 @@ font-weight: 400;
 .address-link:focus {
     color: #404bbf;
 }
+
 .hero {
     background: #2e2f42;
-}
-
-.hero-title {
-    font-weight: 700;
-        font-size: 56px;
-        line-height: 1.1;
-        letter-spacing: 0.02em;
-        color: #fff;
-}
-
-.button-link:hover,
-.button-link:focus {
-     background: #404bbf;
 }
