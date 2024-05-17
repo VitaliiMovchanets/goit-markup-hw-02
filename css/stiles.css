@@ -144,3 +144,14 @@ color: #2e2f42;
     line-height: 1.11;
 }
 
+.our-desiding {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.our-desiding-sector {
+    line-height: 1.5;
+    color: #434455;
+}
