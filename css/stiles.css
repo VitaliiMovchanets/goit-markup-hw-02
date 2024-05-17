@@ -60,3 +60,11 @@ font-weight: 400;
 .hero {
     background: #2e2f42;
 }
+.hero-title {
+    color: #fff;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+}
