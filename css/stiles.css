@@ -22,7 +22,8 @@ ul,ol {
 
 }
 
-.logo-part {color: #2e2f42;
+.logo-part {
+    color: #2e2f42;
 
 }
 
@@ -163,6 +164,6 @@ color: #2e2f42;
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
-.span {
+.logo-part {
     color:#f4f4fd;
 }
