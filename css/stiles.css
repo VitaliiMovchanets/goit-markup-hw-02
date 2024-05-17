@@ -22,8 +22,8 @@ ul,ol {
 
 }
 
-.logo-part {color: #2e2f42;
-color:#f4f4fd;
+.logo-part-1 {
+    color: #2e2f42;
 }
 
 .nav-link {font-weight: 500;
@@ -164,4 +164,8 @@ color: #2e2f42;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.logo-part-2 {
+    color: #f4f4fd;
 }
